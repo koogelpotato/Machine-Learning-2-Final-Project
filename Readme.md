@@ -6,7 +6,7 @@
 This project focuses on detecting fraudulent vehicle insurance claims using machine learning techniques. Fraud detection is a critical task for insurance companies, helping reduce financial losses and improve claim processing efficiency.
 
 ### 👥 Project Team
-- **Andrew Bysik**
+- **Andrei Bysik**
 - **Mihail Slijov**
 
 ### 🧠 Methodology
